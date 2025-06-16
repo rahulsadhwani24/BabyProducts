@@ -310,7 +310,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-inline: 4em;
+  padding-inline: 4vw;
   padding-block: .4em;
   border-top: 1px solid #ccc;
   margin-top: 1em;

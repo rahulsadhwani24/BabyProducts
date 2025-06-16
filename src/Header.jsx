@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Logo from "/Logo.png";
 
 const Header = () => {
-  const [menuState, setMenuState] = useState("open");
+  const [menuState, setMenuState] = useState("close");
 
   return (
     <div className={(menuState == "open") ? `header ${menuState}` : `header`}>
