@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "/Logo.png";
+import Logo from "/Logo.webp";
 
 const Header = () => {
   const [menuState, setMenuState] = useState("close");
