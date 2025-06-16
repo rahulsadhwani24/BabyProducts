@@ -308,6 +308,10 @@ nav {
     transform: translateY(0);
     pointer-events: all;
   }
+
+  .landing_page{
+    background-position: 65% 10%;
+  }
 }
 
 .footer{
