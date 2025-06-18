@@ -292,7 +292,7 @@ nav {
     justify-content: center;
     gap: 3em;
     margin: 0;
-    height: 100dvh;
+    height: 100vh;
     min-width: 270px;
     width: 50vw;
     background: rgba(255, 255, 255, 0.1);
